@@ -1,2 +1,2 @@
-# OWLS2PPDL
-Course Project to translate OWL-S into PDDL files
+# OWLS2PDDL
+Course project to transform OWL-S into PDDL
